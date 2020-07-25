@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a sample application-GitHub Deploy
+            Ver2.This is a a sample application-GitHub Deploy
         </div>
     </form>
 </body>
